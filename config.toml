@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://awesome-ritchie-c63dac.netlify.com/"
 languageCode = "en-us"
 title = "The Rapha Project"
 theme = "hugo-agency-theme"
