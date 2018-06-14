@@ -178,7 +178,7 @@ googleAnalytics = "UA-111109114-1"
       reportsTo = "Project Leader"
       livesIn = "[Abidjan, Ivory Coast](https://www.google.com/maps/@5.3484342,-4.1197518,11z)"
       scope = [
-        "Data Science for [Rapha](http://rapha.xyz)",
+        "Data Science and Deep Learning for [Rapha](http://rapha.xyz)",
         "Bioinformatics  and Open Source for [bioSyntax](https://biosyntax.org)"
       ]
       # For bio markdown and even multiline strings are available.
@@ -194,8 +194,8 @@ googleAnalytics = "UA-111109114-1"
       name = "Adama Berte"
       position = "Lead Developer"
       scope = [
-        "Informatics",
-        "3D Graphics and App Developer"
+        "Android and 3D interactive App developer",
+        "Machine Learning"
       ]
       bio ="Adama is a developer passionate about interactive media and machine learning. He has already author of many mobile and app and continue to find way to bring machine learning in our daily life."
       social = [
