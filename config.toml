@@ -182,7 +182,7 @@ googleAnalytics = "UA-111109114-1"
         "Bioinformatics  and Open Source for [bioSyntax](https://biosyntax.org)"
       ]
       # For bio markdown and even multiline strings are available.
-      bio = "Anicet is a scientist with heaps of experience in the field of Data Science and Bioinformatics. He worked in team of [Dr. Lucia Kuhn-Nentwig](http://www.ecol.iee.unibe.ch/about_us/staff/dr_kuhn_nentwig_lucia/index_eng.html) and [Dr. Koua Dominique](http://www.ecol.iee.unibe.ch/about_us/staff/dr_koua_dominique/index_eng.html) for 2 years until he went belly up."
+      bio = "Anicet is an engineer with heaps of experience in the field of Data Science and Bioinformatics. He worked in team of [Dr. Lucia Kuhn-Nentwig](http://www.ecol.iee.unibe.ch/about_us/staff/dr_kuhn_nentwig_lucia/index_eng.html) and [Dr. Koua Dominique](http://www.ecol.iee.unibe.ch/about_us/staff/dr_koua_dominique/index_eng.html) for 2 years until he went belly up."
       social = [
         ["fa-twitter", "https://twitter.com/anicetebou"],
       # ["fa-facebook", "#"],
@@ -193,21 +193,31 @@ googleAnalytics = "UA-111109114-1"
       img = "ab.png"
       name = "Adama Berte"
       position = "Lead Developer"
+      bio ="Adama is a developer passionate about interactive media and machine learning. He has already author of many mobile and app and continue to find way to bring machine learning in our daily life."
       social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-twitter", "https://twitter.com/BerteADA"],
+        #["fa-facebook", "#"],
+        ["fa-linkedin", "https://www.linkedin.com/in/berteada/"]
       ]
 
     [[params.team.members]]
       img = "ge.png"
       name = "Grace Ebou"
       position = "Business Developer"
+      bio = "Grace has experience in Communication and Human ressources management and worked with several company in energy and banks before coming sharing his knowledge with Rapha."
       social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-twitter", "https://twitter.com/PerfctGrace"],
+        #["fa-facebook", "#"],
+        #["fa-linkedin", "#"]
       ]
+    [[params.team.members]]
+      img = "sk.png"
+      name = "Sarah Kouame"
+      bio = "Sarah is studying Agronomy after finishing his Preparatory Classes major of his peers. She have a strong understanding of issues around Plant pathology and a strong interest in digital solution to solve these issues."
+      position = "Agronomics Operations"
+      scope = [
+        "Agronomy",
+        "Plant Pathology"
 
   # Client section
     [params.clients_list]
