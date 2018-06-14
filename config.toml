@@ -166,7 +166,7 @@ googleAnalytics = "UA-111109114-1"
     #center = true
     title = "Our amazing team"
     subtitle = "The Rapha Core Team"
-    description = "*There is more important than the way to achieve it, it is the power to believe it <br />--Nagato in Naruto*"
+    #description = "*There is more important than the way to achieve it, it is the power to believe it <br />--Nagato in Naruto*"
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
@@ -319,7 +319,7 @@ googleAnalytics = "UA-111109114-1"
 
      [[params.footer.quicklinks]]
       text = "Privacy Policy"
-      link = "#"
+      link = "privacypolicy.htm"
 
     [[params.footer.quicklinks]]
       text = "Terms of Use"
