@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://awesome-ritchie-c63dac.netlify.com/"
 languageCode = "en-us"
-title = "The Rapha Project"
+title = "Rapha"
 theme = "hugo-agency-theme"
 
 # Enter your tracking code to enable Google Analytics
