@@ -193,6 +193,10 @@ googleAnalytics = "UA-111109114-1"
       img = "ab.png"
       name = "Adama Berte"
       position = "Lead Developer"
+      scope = [
+        "Informatics",
+        "3D Graphics and App Developer"
+      ]
       bio ="Adama is a developer passionate about interactive media and machine learning. He has already author of many mobile and app and continue to find way to bring machine learning in our daily life."
       social = [
         ["fa-twitter", "https://twitter.com/BerteADA"],
@@ -204,6 +208,10 @@ googleAnalytics = "UA-111109114-1"
       img = "ge.png"
       name = "Grace Ebou"
       position = "Business Developer"
+      scope = [
+        "Communication",
+        "Human Ressources"
+      ]
       bio = "Grace has experience in Communication and Human ressources management and worked with several company in energy and banks before coming sharing his knowledge with Rapha."
       social = [
         ["fa-twitter", "https://twitter.com/PerfctGrace"],
@@ -218,7 +226,7 @@ googleAnalytics = "UA-111109114-1"
       scope = [
         "Agronomy",
         "Plant Pathology"
-
+     ]
   # Client section
     [params.clients_list]
       enable = false
