@@ -1,0 +1,5 @@
+# Redirect default Netlify subdomain to primary domain
+https://awesome-ritchie-c63dac.netlify.com/* https://www.rapha.xyz/:splat 301!
+
+# These extra rules are required because HTTPS is not forced
+http://awesome-ritchie-c63dac.netlify.com/* https://www.rapha.xyz/:splat 301!
