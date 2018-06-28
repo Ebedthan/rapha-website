@@ -219,6 +219,12 @@ googleAnalytics = "UA-111109114-1"
         #["fa-linkedin", "#"]
       ]
     [[params.team.members]]
+      img = ""
+      name = ""
+      bio = ""
+      position = ""
+      scope = []
+    [[params.team.members]]
       img = "sk.png"
       name = "Sarah Kouame"
       bio = "Sarah is studying Agronomy after finishing his Preparatory Classes major of his peers. She have a strong understanding of issues around Plant pathology and a strong interest in digital solution to solve these issues."
@@ -227,6 +233,12 @@ googleAnalytics = "UA-111109114-1"
         "Agronomy",
         "Plant Pathology"
      ]
+    [[params.team.members]]
+      img = ""
+      name = ""
+      bio = ""
+      position = ""
+      scope = []
   # Client section
     [params.clients_list]
       enable = false
@@ -337,8 +349,8 @@ googleAnalytics = "UA-111109114-1"
 
      [[params.footer.quicklinks]]
       text = "Privacy Policy"
-      link = "privacypolicy.htm"
+      link = "https://app.termly.io/document/privacy-policy/502190a4-e5e3-4e24-a93d-a0d2aed70fe2"
 
-    [[params.footer.quicklinks]]
-      text = "Terms of Use"
-      link = "#"
+    #[[params.footer.quicklinks]]
+    #  text = "Terms of Use"
+    #  link = "#"
